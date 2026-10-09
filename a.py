@@ -5,3 +5,5 @@ class Student:
     def show(self):
         print(f"Name: {self.name}")
         print(f"Age: {self.age}")
+
+s1 = Student("Rahim", 18)
