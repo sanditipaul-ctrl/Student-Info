@@ -7,3 +7,4 @@ class Student:
         print(f"Age: {self.age}")
 
 s1 = Student("Rahim", 18)
+s1.show()
