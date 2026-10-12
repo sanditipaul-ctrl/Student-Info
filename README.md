@@ -12,10 +12,6 @@ I made this project to understand how classes, objects, constructors, and method
 2. Open the terminal in the project folder.
 3. Run the following command:
 
-   ```bash
-   python student.py
-   ```
-
 ## What I Learned
 
 * How to create a class and an object.
@@ -28,7 +24,6 @@ I made this project to understand how classes, objects, constructors, and method
 
 ## Output
 
-text
 Name: Rahim
 Age: 18
 
