@@ -1,22 +1,34 @@
 # Student Class
 
-A simple Python program that uses a class to store and display a student's name and age.
+This is a simple Python program that stores and displays a student's name and age. I made it to practise using classes and objects in Python.
 
-## Features
+## Why I Made This
 
-* Stores student name and age.
-* Uses a constructor (`__init__`).
-* Displays student information using a method.
-
-## Technologies Used
-
-* Python
+I made this project to understand how classes, objects, constructors, and methods work in Python.
 
 ## How to Run
 
-1. Run the Python file.
-2. The student's name and age will be displayed.
+1. Save the code in a file named `student.py`.
+2. Open the terminal in the project folder.
+3. Run the following command:
 
-## Example Output
+   ```bash
+   python student.py
+   ```
+
+## What I Learned
+
+* How to create a class and an object.
+* How to use the `__init__()` constructor.
+* How to create a method to display student information.
+
+## Tools I Used
+
+* Python
+
+## Output
+
+text
 Name: Rahim
 Age: 18
+
